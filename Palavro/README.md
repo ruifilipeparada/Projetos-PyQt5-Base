@@ -20,7 +20,7 @@ Para este projeto, desenvolvi uma aplicação de jogo de palavras com vários mo
 A aplicação inclui, entre outras funcionalidades:
 
 * Validação de palavras através de um dicionário.
-* Normalização de palavras, permitindo lidar com acentos.
+* Normalização de palavras, permitindo lidar com acentos e cedilhas.
 * Feedback visual através de cores para letras corretas, presentes na palavra ou incorretas.
 * Animações durante a escrita, validação e vitória.
 * Navegação entre diferentes interfaces.
