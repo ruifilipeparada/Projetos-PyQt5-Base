@@ -69,5 +69,6 @@ Apesar de o projeto estar funcional, existem várias possibilidades de evoluçã
 * Melhorar a responsividade das interfaces.
 * Adicionar efeitos sonoros.
 * Criar um sistema de pontuação mais completo para o modo Contratempo.
+* Separar progressivamente a lógica do jogo da construção das interfaces, tornando o código mais modular.
 
 ---
