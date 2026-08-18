@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Desenvolver um jogo de palavras em Python, inspirado no conceito do Wordle, com diferentes modos de jogo e uma interface gráfica construída com PyQt5.
+Desenvolver um jogo de palavras em Python, inspirado no conceito do Wordle, com diferentes modos de jogo e uma interface construída com PyQt5.
 
 O objetivo principal foi criar uma aplicação completa e funcional, desde a lógica das partidas até à interface e às diferentes interações com o utilizador.
 
