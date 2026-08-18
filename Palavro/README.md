@@ -26,7 +26,6 @@ A aplicação inclui, entre outras funcionalidades:
 * Navegação entre diferentes interfaces.
 * Sistema de tentativas e condições de vitória/derrota.
 * Histórico de palavras jogadas no modo Contratempo.
-* Frases aleatórias nas interfaces de vitória e derrota.
 * Diferentes interfaces e lógicas específicas para cada modo de jogo.
 
 Um dos principais objetivos durante o desenvolvimento foi manter as diferentes variantes do jogo organizadas, evitando duplicação desnecessária da lógica sempre que esta pudesse ser partilhada entre os vários modos.
