@@ -38,9 +38,11 @@ Um dos principais objetivos durante o desenvolvimento foi manter as diferentes v
 
 **Palavro/**
 
-* **code_game.py:** ficheiro principal da aplicação, contendo a interface gráfica, lógica dos diferentes modos de jogo, validação de palavras, animações e navegação entre interfaces.
+* **code_game.py:** ficheiro de desenvolvimento da aplicação, contendo a interface gráfica, lógica dos diferentes modos de jogo, validação de palavras, animações e navegação entre interfaces.
+* **main.py:** ficheiro que executa a aplicação.
+* **iphone_frame:** ficheiro que desenha um frame de telemóvel, que dá molde ao jogo. 
 * **dicionario.txt:** ficheiro com as palavras utilizadas para validar as tentativas do utilizador.
-* **README.md:** documentação do projeto.
+* **respostas.txt:** ficheiro com as palavras sorteadas para cada partida. 
 
 > **Nota:** é importante manter a estrutura da pasta e a localização do ficheiro `dicionario.txt`, uma vez que este é utilizado diretamente pela aplicação durante a validação das palavras.
 
@@ -67,6 +69,5 @@ Apesar de o projeto estar funcional, existem várias possibilidades de evoluçã
 * Melhorar a responsividade das interfaces.
 * Adicionar efeitos sonoros.
 * Criar um sistema de pontuação mais completo para o modo Contratempo.
-* Separar progressivamente a lógica do jogo da construção das interfaces, tornando o código mais modular.
 
 ---
