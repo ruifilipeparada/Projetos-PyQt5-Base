@@ -1,8 +1,8 @@
-# Calculadora PyQt5
+# Calculadora 
 
 ## Objetivo
 
-Desenvolver uma calculadora em Python com uma interface gráfica criada com **PyQt5**, permitindo realizar operações matemáticas através de uma interface inspirada num **iPhone**.
+Desenvolver uma calculadora em Python com uma interface gráfica criada com **PyQt5**, permitindo realizar operações através de uma interface inspirada num **telemóvel**.
 
 ---
 
@@ -15,7 +15,6 @@ O projeto está dividido em diferentes ficheiros, separando a lógica da aplica�
 * desenvolvimento de uma interface gráfica para a calculadora;
 * implementação da lógica das operações;
 * interação entre a interface e a lógica da aplicação;
-* organização do projeto em diferentes ficheiros Python.
 
 A interface visual da calculadora é baseada num mockup de iPhone, utilizado como referência para a construção da aplicação.
 
@@ -25,7 +24,7 @@ A interface visual da calculadora é baseada num mockup de iPhone, utilizado com
 
 **Calculadora/**
 
-* **[mockup]:** ficheiro utilizado como referência visual para a interface da calculadora
+* **mockup_iphone.py:** ficheiro utilizado como referência visual para a interface da calculadora
 * **calculator_code.py:** contém a classe responsável pela lógica da calculadora
 * **main.py:** instancia a aplicação e inicia a execução da calculadora
 
